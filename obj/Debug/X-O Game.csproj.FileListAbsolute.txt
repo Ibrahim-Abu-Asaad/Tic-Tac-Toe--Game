@@ -1,0 +1,10 @@
+C:\Users\PRO\source\repos\X-O Game\bin\Debug\X-O Game.exe.config
+C:\Users\PRO\source\repos\X-O Game\bin\Debug\X-O Game.exe
+C:\Users\PRO\source\repos\X-O Game\bin\Debug\X-O Game.pdb
+C:\Users\PRO\source\repos\X-O Game\obj\Debug\X-O Game.csproj.AssemblyReference.cache
+C:\Users\PRO\source\repos\X-O Game\obj\Debug\X_O_Game.Form1.resources
+C:\Users\PRO\source\repos\X-O Game\obj\Debug\X_O_Game.Properties.Resources.resources
+C:\Users\PRO\source\repos\X-O Game\obj\Debug\X-O Game.csproj.GenerateResource.cache
+C:\Users\PRO\source\repos\X-O Game\obj\Debug\X-O Game.csproj.CoreCompileInputs.cache
+C:\Users\PRO\source\repos\X-O Game\obj\Debug\X-O Game.exe
+C:\Users\PRO\source\repos\X-O Game\obj\Debug\X-O Game.pdb
