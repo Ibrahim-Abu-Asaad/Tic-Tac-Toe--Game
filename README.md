@@ -41,11 +41,14 @@ You need **Visual Studio** (Community Edition or higher) installed on your machi
 ### Running the Game
 
 1.  **Clone the repository:**
+
+```bash
     git clone https://github.com/Ibrahim-Abu-Assad/Tic-Tac-Toe-WinForms.git
-    
-2.  **Open the solution:** Navigate to the cloned folder and open the `X-O-Game.sln` file in Visual Studio.
-3.  **Run the project:** Press the **Start** button (often a green triangle icon or F5) in Visual Studio.
-4.  **Enjoy!** Player 1 (X) starts first. Click any empty square to place your mark.
+```
+
+3.  **Open the solution:** Navigate to the cloned folder and open the `X-O-Game.sln` file in Visual Studio.
+4.  **Run the project:** Press the **Start** button (often a green triangle icon or F5) in Visual Studio.
+5.  **Enjoy!** Player 1 (X) starts first. Click any empty square to place your mark.
 
 ### Game Rules
 * The first player to get three of their marks in a row (horizontal, vertical, or diagonal) wins.
