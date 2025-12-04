@@ -1,10 +1,10 @@
 # ❌🅾️ X-O Game (Tic-Tac-Toe)
 
+![C#](https://img.shields.io/badge/Language-C%23-blue) ![.NET Framework](https://img.shields.io/badge/Framework-.NET%20Framework-blue) ![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-blue)
+
 A classic two-player Tic-Tac-Toe game implemented as a **Windows Forms Application** using C#.
 This simple project demonstrates fundamental concepts of C# programming,
 event handling, and game logic, including checking for winning conditions and managing game state.
-
-![C#](https://img.shields.io/badge/Language-C%23-blue) ![.NET Framework](https://img.shields.io/badge/Framework-.NET%20Framework-blue) ![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-blue)
 
 ---
 
