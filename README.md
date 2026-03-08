@@ -58,7 +58,7 @@ You need **Visual Studio** (Community Edition or higher) installed on your machi
 
 ## 👨‍💻 Author
 
-**Ibrahim Abu-Assad**
+**Ibrahim Abu-Asaad**
 
 🌐 [GitHub Profile](https://github.com/Ibrahim-Abu-Asaad) 
 
